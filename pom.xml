@@ -23,7 +23,7 @@
     </dependencies>
 
     <build>
-        <finalName>SomeProjeck</finalName>
+        <finalName>papajava</finalName>
         <plugins>
             <!-- 실행 가능한 JAV + 의존성 통합 -->
             <plugin>
