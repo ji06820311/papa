@@ -1,14 +1,14 @@
 package com.itgroup;
 
-import com.itgroup.bean.Movie;   // ✅ Movie import
-import com.itgroup.dao.MovieDao; // ✅ DAO import
+import com.itgroup.bean.Movie;   //  Movie import
+import com.itgroup.dao.MovieDao; //  DAO import
 
-import java.util.List;           // ✅ List import
-import java.util.Scanner;        // ✅ Scanner import
+import java.util.List;           //  List import
+import java.util.Scanner;        //  Scanner import
 
 public class MovieMain {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in); // ✅ 변수명 scan으로 통일
+        Scanner scan = new Scanner(System.in); //  변수명 scan으로 통일
         MovieDao dao = new MovieDao();
 
         while (true) {
