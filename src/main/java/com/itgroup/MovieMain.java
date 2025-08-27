@@ -3,7 +3,7 @@ package com.itgroup;
 import com.itgroup.bean.Movie;   //  Movie import
 import com.itgroup.dao.MovieDao; //  DAO import
 
-import java.util.List;           //  List import
+import java.util.List;           //  List importsp
 import java.util.Scanner;        //  Scanner import
 
 public class MovieMain {
